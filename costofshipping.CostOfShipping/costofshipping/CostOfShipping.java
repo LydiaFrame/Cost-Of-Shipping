@@ -7,7 +7,7 @@
  * If the weight is greater than 20, display a message “The package cannot be shipped.” 
  * Shipping cost per pound $1.50. 
  */
-
+package costofshipping; 
  import java.util.Scanner;
  
  public class CostOfShipping {
